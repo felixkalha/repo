@@ -1,3 +1,5 @@
+Edited first line.
+
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Title: Reality is nonsense.
